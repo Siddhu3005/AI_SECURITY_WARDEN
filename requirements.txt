@@ -1,0 +1,7 @@
+streamlit
+torch
+transformers
+pandas
+scikit-learn
+ollama
+python-dotenv

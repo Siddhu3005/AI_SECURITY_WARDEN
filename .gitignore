@@ -1,0 +1,8 @@
+*.csv
+*.xlsx
+*.zip
+*.png
+evaluate_model.py
+test.py
+update_model.py
+.env
